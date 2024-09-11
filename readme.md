@@ -20,8 +20,6 @@ This repository demonstrates how to send a WhatsApp message using Go and the May
 3. Run `go build` to build the project
 4. Execute the program to send a test message
 
-For detailed instructions, see our [Installation Guide](docs/installation.md) and [Usage Guide](docs/usage.md).
-
 ## Why Maytapi?
 
 [Maytapi](https://maytapi.com) offers a robust WhatsApp API solution with features like:
@@ -31,15 +29,11 @@ For detailed instructions, see our [Installation Guide](docs/installation.md) an
 - Easy integration
 - Comprehensive documentation
 
-Learn more about Maytapi's [WhatsApp API](https://maytapi.com/whatsapp-api) and how it can benefit your projects.
+Learn more about Maytapi's [WhatsApp API](https://maytapi.com) and how it can benefit your projects.
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
