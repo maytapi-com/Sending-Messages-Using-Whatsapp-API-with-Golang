@@ -37,6 +37,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Support
 
-For any questions or support regarding this implementation, please [open an issue](https://github.com/yourusername/Send-a-message-using-Go/issues).
-
 For questions about Maytapi's WhatsApp API, visit their [official documentation](https://maytapi.com/whatsapp-api-documentation) or contact their support team.
