@@ -13,12 +13,40 @@ This repository demonstrates how to send a WhatsApp message using Go and the May
 - Go 1.16 or higher
 - Maytapi account and API credentials
 
-## Quick Start
+## Installation
 
-1. Clone this repository
-2. Configure your Maytapi credentials in `config.go`
-3. Run `go build` to build the project
-4. Execute the program to send a test message
+1. Clone this repository:
+```bash
+https://github.com/maytapi-com/send-a-message-with-golang-using-whatsapp-api.git
+cd project-folder
+```
+
+2. Configure your Maytapi credentials in `main.go`:
+```
+productID := "your_product_id"
+phoneID := "your_phone_id"
+apiKey := "your_api_key"
+```
+3. Build the project:
+```golang
+go build
+```
+## Usage
+
+To send a test message, run the compiled program:
+```bash
+./maytapi-whatsapp-go
+```
+
+To use in your own project:
+1. Copy the `main.go` file to your project.
+2. Update the Maytapi credentials with your own.
+3. Import and use the necessary functions in your code.
+
+> [!NOTE]
+> **To perform all these operations correctly, you need to register with maytapi.com, get the credentials, and place them in the config file.**
+
+
 
 ## Why Maytapi?
 
