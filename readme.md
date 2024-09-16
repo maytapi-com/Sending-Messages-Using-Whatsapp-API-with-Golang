@@ -1,6 +1,38 @@
-# Send a Message Using Go with Maytapi WhatsApp API
+# WhatsApp Send Message Using Golang
 
 This repository demonstrates how to send a WhatsApp message using Go and the Maytapi WhatsApp API. Maytapi provides a powerful and easy-to-use API for integrating WhatsApp messaging into your applications.
+
+## Quick Start Guide
+
+Maytapi WhatsApp API offers a powerful and user-friendly solution for integrating WhatsApp communication into your project. To get started, create a free account on Maytapi's website and receive a 3-day trial membership. After linking your WhatsApp account via QR code and obtaining your API credentials, you can begin using the API in your project. We recommend exploring our [Google Sheets](https://console.maytapi.com/integrations/sheets) and [Google Contacts](https://console.maytapi.com/integrations/contacts) integrations, as well as additional tools on our [GitHub page](https://github.com/maytapi-com), to optimize your workflow. This guide outlines the steps to help you maximize the potential of Maytapi WhatsApp API.
+
+
+1. **Registration**
+   - Visit [https://console.maytapi.com/register](https://console.maytapi.com/register) to create your account.
+   - No credit card or additional identity verification is required.
+   - Upon registration, you'll receive a 3-day trial membership.
+
+2. **Connect Your Device**
+   - Navigate to the Dashboard and locate the QR code section.
+   - Open WhatsApp on your mobile device.
+   - Go to Settings -> Linked Devices -> Link a Device -> Scan QR Code.
+   - Scan the QR code displayed on the Maytapi dashboard.
+
+3. **Obtain API Credentials**
+   - Visit [https://console.maytapi.com/developers/token](https://console.maytapi.com/developers/token).
+   - Retrieve your unique Product ID and API Token.
+   - Note the Phone ID associated with your connected device.
+
+4. **Start Using the API**
+   - You're now ready to use the Maytapi WhatsApp API.
+   - Implement the API in your project using the obtained credentials.
+
+5. **Explore API Capabilities**
+   - For a comprehensive overview of API functionalities, visit:
+     [https://console.maytapi.com/developers/documentation](https://console.maytapi.com/developers/documentation)
+   - This documentation provides detailed information on available endpoints and their usage.
+
+
 
 ## Features
 
